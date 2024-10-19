@@ -1,3 +1,4 @@
+-- Nao copia pfv demorou muito-
 -- Load the Orion library
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 
